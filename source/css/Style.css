@@ -3,3 +3,7 @@
     width: auto;
     height: auto;
 }
+.col-12 {
+    padding: 1rem;
+    margin-bottom: 1rem;
+}
